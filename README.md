@@ -38,7 +38,7 @@ GEMINI_API_KEY="your_actual_api_key_here"
 
 
 
-Project Structure
+# Project Structure
 app.py: The entry point for the Streamlit GUI, handling routing, auth, chat interface, and result rendering.
 file_parser.py: Responsible for extracting structural transaction data from different file formats (PDFs, CSVs, etc.).
 gst_engine.py: Core logic for grouping transactions, computing returns based on GST laws, and identifying compliance errors.
