@@ -11,6 +11,7 @@ An AI-powered Chartered Accountant Assistant built with Streamlit and Google Gem
 - **Natural Language Interaction:** Ask questions or instruct the assistant to process data through an intuitive AI chat interface powered by Google Gemini.
 - **Session-based Authentication:** Securely upload and process records within authenticated user sessions.
 
+
 ## Technologies Used
 - **Frontend/Backend:** [Streamlit](https://streamlit.io/)
 - **Data Manipulation:** [Pandas](https://pandas.pydata.org/)
