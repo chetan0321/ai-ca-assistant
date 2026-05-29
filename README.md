@@ -37,7 +37,6 @@ Configure Environment Variables: Create a new file named .env in the project roo
 GEMINI_API_KEY="your_actual_api_key_here"
 
 
-
 # Project Structure
 app.py: The entry point for the Streamlit GUI, handling routing, auth, chat interface, and result rendering.
 file_parser.py: Responsible for extracting structural transaction data from different file formats (PDFs, CSVs, etc.).
