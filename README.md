@@ -4,7 +4,6 @@ An AI-powered Chartered Accountant Assistant built with Streamlit and Google Gem
 
 ## Features 
 
-
 - **File Processing:** Upload your CSV, JSON, PDF, XLSX, or TXT files to seamlessly extract transaction and invoice information.
 - **GST Return Generation:** Automatically computes and generates the necessary structured JSON outputs for GSTR-1 and GSTR-3B.
 - **Automated Compliance Checks:** Detects and flags errors in uploaded data with different severity levels (e.g., duplicate entries, missing GSTINs, anomalous tax rates).
