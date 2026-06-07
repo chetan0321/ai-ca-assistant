@@ -11,6 +11,7 @@ An AI-powered Chartered Accountant Assistant built with Streamlit and Google Gem
 - **Session-based Authentication:** Securely upload and process records within authenticated user sessions.
 
 
+
 ## Technologies Used
 - **Frontend/Backend:** [Streamlit](https://streamlit.io/)
 - **Data Manipulation:** [Pandas](https://pandas.pydata.org/)
