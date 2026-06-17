@@ -1,7 +1,7 @@
 # AI CA Assistant for Indian SMEs 
  
 An AI-powered Chartered Accountant Assistant built with Streamlit and Google Gemini. This application allows Indian Small and Medium Enterprises (SMEs) to easily upload their transaction data or invoices and automatically generate GST returns (GSTR-1, GSTR-3B) while identifying potential errors and compliance issues.
-
+ 
 ## Features 
  
 - **File Processing:** Upload your CSV, JSON, PDF, XLSX, or TXT files to seamlessly extract transaction and invoice information.
