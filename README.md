@@ -24,7 +24,7 @@ An AI-powered Chartered Accountant Assistant built with Streamlit and Google Gem
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/chetan0321/ai-ca-assistant.git
-   cd ai-ca-assistant
+   cd ai-ca-assistant 
 Create and activate a virtual environment:
 
 # Windows
