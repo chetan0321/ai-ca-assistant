@@ -9,7 +9,7 @@ An AI-powered Chartered Accountant Assistant built with Streamlit and Google Gem
 - **Automated Compliance Checks:** Detects and flags errors in uploaded data with different severity levels (e.g., duplicate entries, missing GSTINs, anomalous tax rates).
 - **Natural Language Interaction:** Ask questions or instruct the assistant to process data through an intuitive AI chat interface powered by Google Gemini.
 - **Session-based Authentication:** Securely upload and process records within authenticated user sessions.
-
+ 
 
 ## Technologies Used
 - **Frontend/Backend:** [Streamlit](https://streamlit.io/)
